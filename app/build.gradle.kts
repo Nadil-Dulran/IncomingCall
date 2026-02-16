@@ -7,6 +7,8 @@ android {
     namespace = "com.example.incomingcall"
     compileSdk = 35
 
+    buildFeatures { viewBinding = true }
+
     defaultConfig {
         applicationId = "com.example.incomingcall"
         minSdk = 24
