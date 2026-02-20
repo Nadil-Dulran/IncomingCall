@@ -13,6 +13,12 @@
         android:theme="@style/Theme.IncomingCall"
         tools:targetApi="31">
         <activity
+            android:name=".RejectCallActivity"
+            android:exported="false" />
+        <activity
+            android:name=".AcceptCallActivity"
+            android:exported="false" />
+        <activity
             android:name=".MainActivity"
             android:exported="true">
             <intent-filter>
