@@ -1,9 +1,14 @@
 <resources>
-    <string name="app_name">Incoming Call</string>
+    <string name="app_name" translatable="false">Incoming Call</string>
+    <string name="app_name1">Accept Call</string>
+    <string name="app_name2">Reject Call</string>
     <string name="Unknown_Number">Unknown Number</string>
     <string name="phone_number">071-XXXXXXX</string>
     <string name="IncomingCall">Incoming Call</string>
+    <string name="CallDenied">Call Denied</string>
     <string name="Button01">CANCEL</string>
     <string name="Button02">ACCEPT</string>
+    <string name="Button03">END CALL</string>
+
 
 </resources>
