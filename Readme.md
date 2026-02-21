@@ -25,5 +25,24 @@ The application simulates a realistic call flow through three interactive stages
 
 ---
 
+## 🚀 Getting Started
 
+### Prerequisites
+- Android Studio (Ladybug or newer recommended)
+- JDK 17+
+- Android SDK (API Level 24 or higher)
+
+### Installation
+1. **Clone the repository**
+   ```bash
+   git clone https://github.com/your-username/Incoming_Call.git
+   ```
+2. **Open in Android Studio**
+    - Select `File > Open` and navigate to the project folder.
+3. **Build the Project**
+    - Wait for Gradle to sync.
+4. **Run the App**
+    - Click the **Run** button or press `Shift + F10` to launch on an emulator or physical device.
+
+---
 
