@@ -14,4 +14,16 @@ The application simulates a realistic call flow through three interactive stages
 
 ---
 
+## 🛠️ Technical Highlights
+
+- **Language:** Kotlin
+- **UI Framework:** XML (View-based)
+- **Layout Engine:** `ConstraintLayout` for responsive and flat view hierarchies.
+- **Navigation:** Explicit `Intents` for transitioning between activities.
+- **Resource Management:** Centralized management of strings, colors, and themes via `res/values` for scalability and localization.
+- **State Management:** Implementation of the Android Activity Lifecycle.
+
+---
+
+
 
